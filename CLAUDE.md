@@ -18,3 +18,8 @@ House rules for any agent working in a repo spun from `vibe-starter`. These are 
 ## Quality
 - Keep it simple; this is a small disposable-friendly app, not a framework. Match the existing code style.
 - CI (`.github/workflows/ci.yml`) must stay green: typecheck + build + secret-scan.
+
+## App page conventions
+- Include a small **footer / credit** in the app UI that links to **this app's own GitHub repo** (`https://github.com/ajthilakan/<this-repo>`, shown as "source") and to the [vibe30 challenge](https://ajthilakan.com/posts/quick-update-retooling/#thread-2--vibe-30-or-60-challenge). Link to the repo, not the personal site — each app page points at its own source.
+- If the build is a re-do of someone else's project (e.g. a Nuno game), credit them in the README.
+- This lives as a house rule rather than a hardcoded snippet because each app usually replaces the scaffold's body — the agent building the app should add the footer to match.
