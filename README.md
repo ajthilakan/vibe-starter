@@ -1,6 +1,6 @@
 # vibe-starter
 
-Template repo for my [vibe30]([https://ajthilakan.com](https://post-quick-update-retooling.ajthilakan-blog.pages.dev/posts/quick-update-retooling/#thread-2--vibe-30-or-60-challenge)) apps. Vite + vanilla TypeScript, with CI (build + secret-scan) and house rules already wired. Spin a new app from it instead of scaffolding from scratch.
+Template repo for my [vibe30](https://ajthilakan.com/posts/quick-update-retooling/#thread-2--vibe-30-or-60-challenge) apps. Vite + vanilla TypeScript, with CI (build + secret-scan) and house rules already wired. Spin a new app from it instead of scaffolding from scratch.
 
 ## Use this template
 
@@ -35,4 +35,4 @@ See `Setup - vibe30 app pipeline` in the vault for the full per-tier workflow.
 
 - One-line description.
 - Link to live app (if available)
-- Part of my [vibe30 challenge](https://post-quick-update-retooling.ajthilakan-blog.pages.dev/posts/quick-update-retooling/#thread-2--vibe-30-or-60-challenge).
+- Part of my [vibe30 challenge](https://ajthilakan.com/posts/quick-update-retooling/#thread-2--vibe-30-or-60-challenge).
